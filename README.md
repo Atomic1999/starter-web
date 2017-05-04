@@ -12,3 +12,6 @@ Test2
 
 ##Deploy
 Deployment is easy
+
+##Copyright
+2014 Torben Ledermann
