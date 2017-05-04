@@ -8,5 +8,7 @@ Sample website with plenty of files for demos
 
 ##Test
 Test
+Test2
 
 ##Deploy
+Deployment is easy
