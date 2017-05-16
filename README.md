@@ -17,4 +17,4 @@ Test3
 Deployment is easy
 
 ##Copyright
-2014 Torben Ledermann
+2014 Torben Ledermann All rights reserved
