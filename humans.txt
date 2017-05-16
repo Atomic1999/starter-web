@@ -8,7 +8,7 @@
 
 # THANKS
 
-    <name>
+    Nobody
 
 # TECHNOLOGY COLOPHON
 
