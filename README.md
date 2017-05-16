@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work.
 Adding more text
 more changes
 more
+more
 
 ## Purpose
 
